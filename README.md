@@ -1,1 +1,8 @@
-***Samples of scientific work done with Excel
+### Samples 
+
+**sample.xlsx**  
+Microsoft Excel data analysis done as a postdoc at UCR: deconvoluting mass spectrometer signals
+
+
+
+
