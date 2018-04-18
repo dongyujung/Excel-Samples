@@ -5,6 +5,7 @@
 Excel data analysis exercise I have created for "Engineering Statistics" course.
 
 ![stats](images/stats.png)
+![stats](images/stats1.png)
 
 ### CHM301sample.xlsx  
 Microsoft Excel data analysis sample used in the CHM301 Fundamentals of Physical Chemistry course.  
