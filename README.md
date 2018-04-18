@@ -14,9 +14,13 @@ Microsoft Excel data analysis sample used in the CHM301 Fundamentals of Physical
 
 
 ### gradesIFExcel.xlsx
-Grades analysis exercise I have created for "Engineering Computations" course.
+Grades analysis exercise I have created for "Engineering Computations" course.  
 
-**MSdeconvSample.xlsx**  
-Microsoft Excel data analysis done as a postdoc at UCR: deconvoluting mass spectrometer signals
+![engcomp](images/comp.png)
+
+### MSdeconvSample.xlsx  
+Microsoft Excel data analysis done as a postdoc at UCR: deconvoluting mass spectrometer signals  
+
+![deconv](images/deconv.png)
 
 
