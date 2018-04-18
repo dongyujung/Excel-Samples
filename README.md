@@ -4,6 +4,8 @@
 **statsExcel.xlsx**
 Excel data analysis exercise I have created for "Engineering Statistics" course.
 
+![stats](image/stats.png)
+
 **gradesIFExcel.xlsx**
 Grades analysis exercise I have created for "Engineering Computations" course.
 
